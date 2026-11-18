@@ -8,7 +8,7 @@ An end-to-end data analysis project designed to evaluate training programs, trac
 * **Data Visualization & BI:** Microsoft Power BI
 * **Data Modeling:** Star Schema & DAX Measures
 
-## 🔍 SQL Data Preparation (BigQuery)
+
 ## 🔍 SQL Data Preparation & Analysis (BigQuery)
 Used Google BigQuery to join relational tables (`trainees`, `trainings`, `trainers`, `reports`, and `book_distribution`) and aggregate key metrics for Power BI:
 
