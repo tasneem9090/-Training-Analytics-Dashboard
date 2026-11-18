@@ -1,0 +1,151 @@
+distribution_id,region,governorate,trainer_id,hall,book_name,distribution_date,copies_received
+1,North,Ajloun,14,Hall 7,Introduction to Data Analysis,2026-04-16,35
+2,Central,Zarqa,5,Hall 3,Excel for Beginners,2025-11-14,11
+3,South,Karak,1,Hall 4,Business Communication,2026-09-20,40
+4,North,Jerash,4,Hall 2,Career Readiness Handbook,2026-09-26,71
+5,North,Irbid,8,Hall 5,Project Management Basics,2026-10-09,15
+6,North,Mafraq,9,Hall 8,Digital Skills Guide,2026-06-28,73
+7,North,Irbid,15,Hall 3,Project Management Basics,2025-09-26,12
+8,South,Maan,10,Hall 5,SQL Essentials,2026-08-26,39
+9,South,Aqaba,9,Hall 8,Career Readiness Handbook,2026-04-23,65
+10,North,Ajloun,5,Hall 1,Career Readiness Handbook,2025-09-15,18
+11,Central,Balqa,5,Hall 8,SQL Essentials,2026-05-23,70
+12,South,Tafilah,1,Hall 1,Digital Skills Guide,2026-07-08,28
+13,Central,Zarqa,7,Hall 6,English for Work,2025-09-09,74
+14,Central,Zarqa,3,Hall 6,Project Management Basics,2026-10-04,25
+15,South,Aqaba,15,Hall 6,Business Communication,2026-07-29,68
+16,Central,Amman,2,Hall 4,English for Work,2025-10-12,14
+17,North,Jerash,4,Hall 4,SQL Essentials,2025-09-13,73
+18,North,Mafraq,14,Hall 2,Career Readiness Handbook,2026-03-20,42
+19,South,Maan,5,Hall 8,SQL Essentials,2026-04-08,65
+20,North,Irbid,4,Hall 5,Introduction to Data Analysis,2026-03-14,12
+21,South,Karak,15,Hall 1,Project Management Basics,2026-07-25,18
+22,South,Maan,10,Hall 4,SQL Essentials,2026-02-10,76
+23,North,Jerash,8,Hall 6,Excel for Beginners,2026-09-25,42
+24,Central,Madaba,12,Hall 4,Project Management Basics,2025-11-12,54
+25,South,Maan,7,Hall 8,English for Work,2026-03-15,57
+26,South,Tafilah,4,Hall 6,Introduction to Data Analysis,2026-09-09,36
+27,Central,Zarqa,12,Hall 2,Career Readiness Handbook,2026-08-09,23
+28,South,Aqaba,1,Hall 6,English for Work,2026-05-30,24
+29,North,Mafraq,6,Hall 6,Career Readiness Handbook,2025-09-22,55
+30,North,Jerash,15,Hall 3,Digital Skills Guide,2025-11-09,69
+31,South,Maan,1,Hall 5,Introduction to Data Analysis,2025-11-18,62
+32,South,Maan,12,Hall 5,Project Management Basics,2026-07-07,52
+33,Central,Amman,14,Hall 2,Project Management Basics,2026-08-25,55
+34,North,Irbid,6,Hall 5,Business Communication,2025-09-28,41
+35,North,Ajloun,1,Hall 4,SQL Essentials,2026-05-21,36
+36,North,Jerash,7,Hall 7,English for Work,2026-03-10,69
+37,South,Tafilah,8,Hall 4,English for Work,2026-07-05,24
+38,North,Mafraq,3,Hall 4,Digital Skills Guide,2025-11-19,25
+39,Central,Madaba,1,Hall 7,Digital Skills Guide,2026-03-16,42
+40,Central,Amman,11,Hall 5,Excel for Beginners,2026-02-16,75
+41,Central,Balqa,10,Hall 2,Digital Skills Guide,2026-06-12,37
+42,Central,Madaba,14,Hall 6,Career Readiness Handbook,2026-04-21,80
+43,North,Jerash,12,Hall 3,Project Management Basics,2026-08-21,71
+44,Central,Amman,1,Hall 8,Excel for Beginners,2026-05-19,15
+45,North,Mafraq,2,Hall 3,Introduction to Data Analysis,2026-06-08,40
+46,North,Mafraq,2,Hall 5,Introduction to Data Analysis,2026-02-04,27
+47,North,Ajloun,11,Hall 7,Excel for Beginners,2026-07-29,60
+48,South,Aqaba,5,Hall 5,English for Work,2026-08-17,20
+49,Central,Zarqa,4,Hall 3,Business Communication,2026-07-28,29
+50,Central,Madaba,10,Hall 5,English for Work,2026-01-15,48
+51,Central,Zarqa,8,Hall 7,Introduction to Data Analysis,2026-07-28,42
+52,Central,Balqa,15,Hall 3,English for Work,2025-11-21,22
+53,South,Karak,15,Hall 5,Business Communication,2026-07-19,75
+54,Central,Balqa,2,Hall 6,Introduction to Data Analysis,2026-09-30,74
+55,Central,Balqa,2,Hall 8,SQL Essentials,2025-10-31,46
+56,South,Maan,10,Hall 7,Digital Skills Guide,2026-01-25,16
+57,Central,Madaba,11,Hall 3,Excel for Beginners,2026-10-19,24
+58,North,Jerash,12,Hall 6,Excel for Beginners,2026-07-30,39
+59,South,Karak,10,Hall 1,Introduction to Data Analysis,2025-10-16,30
+60,Central,Zarqa,9,Hall 4,Project Management Basics,2026-06-09,76
+61,Central,Zarqa,2,Hall 1,Digital Skills Guide,2026-03-20,30
+62,South,Tafilah,10,Hall 6,English for Work,2026-10-08,13
+63,South,Aqaba,3,Hall 2,Excel for Beginners,2026-06-21,73
+64,South,Maan,11,Hall 5,Career Readiness Handbook,2026-07-26,39
+65,South,Aqaba,14,Hall 6,Digital Skills Guide,2026-03-09,59
+66,Central,Zarqa,9,Hall 5,Career Readiness Handbook,2026-02-06,16
+67,North,Jerash,13,Hall 6,Digital Skills Guide,2026-01-21,75
+68,Central,Balqa,10,Hall 3,Digital Skills Guide,2025-11-14,47
+69,Central,Zarqa,8,Hall 4,SQL Essentials,2025-10-27,42
+70,Central,Madaba,15,Hall 6,Digital Skills Guide,2025-12-31,22
+71,North,Ajloun,1,Hall 7,Excel for Beginners,2025-11-19,21
+72,North,Mafraq,15,Hall 4,Excel for Beginners,2026-04-07,25
+73,Central,Zarqa,10,Hall 7,Excel for Beginners,2025-12-10,78
+74,Central,Balqa,10,Hall 5,Excel for Beginners,2025-12-08,46
+75,North,Irbid,13,Hall 2,Career Readiness Handbook,2026-07-23,47
+76,North,Irbid,6,Hall 1,Excel for Beginners,2025-10-04,63
+77,South,Maan,6,Hall 4,Digital Skills Guide,2026-01-20,10
+78,South,Tafilah,12,Hall 6,Introduction to Data Analysis,2025-11-15,51
+79,South,Tafilah,12,Hall 3,Digital Skills Guide,2026-03-20,50
+80,Central,Amman,1,Hall 6,Digital Skills Guide,2026-01-12,69
+81,South,Aqaba,7,Hall 4,Business Communication,2026-03-02,55
+82,South,Karak,9,Hall 4,Digital Skills Guide,2025-10-31,14
+83,Central,Zarqa,6,Hall 6,English for Work,2026-01-10,31
+84,South,Aqaba,4,Hall 4,SQL Essentials,2026-02-25,60
+85,Central,Madaba,2,Hall 1,Project Management Basics,2026-08-17,29
+86,North,Mafraq,10,Hall 1,Digital Skills Guide,2025-12-02,72
+87,North,Mafraq,8,Hall 5,Business Communication,2026-05-25,43
+88,South,Karak,8,Hall 2,Project Management Basics,2026-02-24,71
+89,Central,Madaba,7,Hall 1,English for Work,2025-12-28,14
+90,South,Aqaba,3,Hall 2,Career Readiness Handbook,2026-02-27,26
+91,Central,Balqa,9,Hall 7,Introduction to Data Analysis,2026-02-24,27
+92,South,Karak,1,Hall 1,SQL Essentials,2026-01-29,37
+93,Central,Madaba,2,Hall 5,Project Management Basics,2025-10-11,37
+94,Central,Amman,12,Hall 6,Project Management Basics,2025-09-19,69
+95,South,Aqaba,13,Hall 5,Business Communication,2026-10-20,29
+96,South,Tafilah,4,Hall 5,SQL Essentials,2026-05-12,79
+97,South,Tafilah,6,Hall 2,SQL Essentials,2026-09-07,26
+98,North,Jerash,11,Hall 2,Introduction to Data Analysis,2026-01-12,67
+99,South,Aqaba,12,Hall 1,Digital Skills Guide,2026-04-19,41
+100,Central,Balqa,15,Hall 6,English for Work,2025-09-13,10
+101,North,Ajloun,13,Hall 5,English for Work,2026-08-08,23
+102,South,Maan,1,Hall 8,SQL Essentials,2026-03-11,11
+103,North,Mafraq,15,Hall 2,Excel for Beginners,2026-07-22,12
+104,South,Aqaba,7,Hall 4,Excel for Beginners,2026-07-15,66
+105,North,Ajloun,3,Hall 2,Business Communication,2026-09-20,48
+106,Central,Amman,15,Hall 3,Business Communication,2026-04-30,53
+107,Central,Amman,1,Hall 7,Excel for Beginners,2026-05-06,19
+108,South,Karak,7,Hall 2,English for Work,2025-09-12,17
+109,Central,Amman,10,Hall 8,Project Management Basics,2026-02-24,50
+110,North,Irbid,7,Hall 2,Introduction to Data Analysis,2026-06-03,20
+111,South,Karak,13,Hall 2,English for Work,2025-11-09,28
+112,North,Jerash,7,Hall 6,Project Management Basics,2025-12-10,43
+113,South,Maan,13,Hall 2,Business Communication,2026-08-17,37
+114,Central,Balqa,6,Hall 6,Career Readiness Handbook,2026-07-13,48
+115,North,Ajloun,7,Hall 6,Excel for Beginners,2026-01-11,38
+116,Central,Amman,7,Hall 2,Business Communication,2025-09-02,59
+117,North,Ajloun,7,Hall 3,English for Work,2026-08-22,71
+118,North,Irbid,1,Hall 2,English for Work,2025-12-02,60
+119,North,Mafraq,8,Hall 2,English for Work,2026-03-04,54
+120,South,Aqaba,12,Hall 7,Introduction to Data Analysis,2026-04-16,11
+121,Central,Amman,5,Hall 2,Project Management Basics,2026-07-04,78
+122,North,Irbid,15,Hall 4,Digital Skills Guide,2025-11-30,26
+123,Central,Zarqa,3,Hall 7,Digital Skills Guide,2025-12-20,64
+124,South,Tafilah,6,Hall 5,Introduction to Data Analysis,2025-11-02,67
+125,North,Mafraq,1,Hall 6,SQL Essentials,2026-06-26,51
+126,South,Tafilah,14,Hall 2,Project Management Basics,2026-08-01,28
+127,Central,Zarqa,13,Hall 2,Introduction to Data Analysis,2026-03-03,68
+128,South,Tafilah,9,Hall 1,Project Management Basics,2025-12-11,37
+129,South,Tafilah,8,Hall 8,Project Management Basics,2026-08-28,40
+130,North,Jerash,10,Hall 4,Project Management Basics,2026-05-03,30
+131,North,Jerash,1,Hall 4,Career Readiness Handbook,2025-11-15,73
+132,Central,Amman,11,Hall 1,English for Work,2026-09-20,38
+133,South,Karak,12,Hall 7,Career Readiness Handbook,2025-12-31,44
+134,South,Aqaba,7,Hall 3,Project Management Basics,2025-09-15,23
+135,South,Karak,9,Hall 7,English for Work,2026-10-08,21
+136,South,Tafilah,1,Hall 1,Excel for Beginners,2026-03-29,68
+137,South,Maan,12,Hall 3,Excel for Beginners,2026-06-02,57
+138,North,Jerash,3,Hall 2,Business Communication,2026-03-17,73
+139,South,Aqaba,7,Hall 6,Excel for Beginners,2025-10-31,78
+140,Central,Zarqa,9,Hall 1,Digital Skills Guide,2026-01-18,10
+141,Central,Amman,9,Hall 6,Introduction to Data Analysis,2026-07-14,18
+142,Central,Amman,5,Hall 5,Project Management Basics,2026-06-15,12
+143,North,Jerash,1,Hall 1,Career Readiness Handbook,2025-11-16,16
+144,North,Jerash,15,Hall 4,Project Management Basics,2026-09-30,29
+145,Central,Amman,3,Hall 7,Business Communication,2025-09-25,20
+146,North,Irbid,3,Hall 6,English for Work,2026-02-22,80
+147,South,Maan,11,Hall 6,SQL Essentials,2026-05-20,70
+148,Central,Madaba,2,Hall 8,English for Work,2025-11-04,20
+149,North,Mafraq,1,Hall 6,Business Communication,2026-06-29,10
+150,South,Tafilah,13,Hall 4,Introduction to Data Analysis,2025-10-17,38
