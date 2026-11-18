@@ -63,8 +63,8 @@ ORDER BY total_copies DESC;
 ## 📈 Dashboard Preview
 <img width="1067" height="506" alt="image" src="https://github.com/user-attachments/assets/31f4ff87-a03f-4e9d-87de-573ca481e9ac" />
 
-
 ## 💡 Key Insights
-* **Insight 1:** Write your first key finding here (e.g., highest performing training track).
-* **Insight 2:** Write your second key finding here (e.g., completion rates across regions).
+* **Enrollment Scale & Demographics:** Analyzed a total of **300 trainees** across multiple nationalities and gender distributions to identify primary participant segments.
+* **Trainer Productivity:** Tracked report submissions and material distribution (`book_distribution`) per trainer to highlight top-performing instructors.
+* **Seasonal Trends:** Monitored monthly training frequencies (`training_month`) to identify peak operational periods and resource demand.
 
