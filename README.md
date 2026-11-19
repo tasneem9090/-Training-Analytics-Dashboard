@@ -67,7 +67,7 @@ ORDER BY total_copies DESC;
 * **Trainer Productivity:** Tracked report submissions and material distribution (`book_distribution`) per trainer to highlight top-performing instructors.
 * **Seasonal Trends:** Monitored monthly training frequencies (`training_month`) to identify peak operational periods and resource demand.
 
-* **Seasonal Trends:** Monitored monthly training frequencies (`training_month`) to identify peak operational periods and resource demand.
+
 
 ## 📂 Dataset Files
 The raw CSV and processed dataset files (`trainers.csv`, `trainees.csv`, `trainings.csv`, `reports.csv`, `book_distribution.csv`) used for this analytics dashboard are included in this repository.
