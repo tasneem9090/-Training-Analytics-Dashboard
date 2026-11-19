@@ -1,0 +1,16 @@
+trainer_id,first_name,last_name,email,phone,registration_date,residence
+1,Ibrahim,Suleiman,ibrahim.suleiman@example.com,0799698864,2025-05-27,Karak
+2,Rahaf,Jaber,rahaf.jaber@example.com,0782618486,2025-06-23,Zarqa
+3,Sami,Zoubi,sami.zoubi@example.com,0783933767,2025-01-23,Karak
+4,Huda,Hijazi,huda.hijazi@example.com,0784875073,2025-04-19,Mafraq
+5,Hala,Jaber,hala.jaber@example.com,0794157649,2025-03-08,Balqa
+6,Jumana,Shawabkeh,jumana.shawabkeh@example.com,0795021078,2025-01-27,Aqaba
+7,Lama,Majali,lama.majali@example.com,0781881767,2025-05-20,Amman
+8,Dina,Zoubi,dina.zoubi@example.com,0799566842,2025-08-01,Amman
+9,Ahmad,Khoury,ahmad.khoury@example.com,0776545492,2025-05-05,Madaba
+10,Salma,Shawabkeh,salma.shawabkeh@example.com,0785983906,2025-07-20,Karak
+11,Zaid,Rawashdeh,zaid.rawashdeh@example.com,0779840240,2025-07-11,Balqa
+12,Saleh,Rawashdeh,saleh.rawashdeh@example.com,0770458611,2025-01-12,Karak
+13,Anas,Bakri,anas.bakri@example.com,0770659869,2025-05-20,Ajloun
+14,Layan,Jaber,layan.jaber@example.com,0779850697,2025-08-23,Tafilah
+15,Majd,Daoud,majd.daoud@example.com,0783183930,2025-08-02,Zarqa
